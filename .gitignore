@@ -1,2 +1,9 @@
 vendor
 composer.lock
+/node_modules
+/public/storage
+/.idea
+.env
+/.vagrant/
+/Homestead.yaml
+*.iml
